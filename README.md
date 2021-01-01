@@ -5,12 +5,12 @@ This repository contains a notebook to train your own custom object detector usi
 I have posted a detailed tutorial in medium. Here's the link:
 
 
-Training:
+### Training:
 
 ![](output/training.gif)
 
 
-Tensorboard results :
+### Tensorboard results :
 
 ![](output/tensorboard.png)
 
