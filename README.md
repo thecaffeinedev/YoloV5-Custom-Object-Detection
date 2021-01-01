@@ -4,6 +4,8 @@ This repository contains a notebook to train your own custom object detector usi
 
 I have posted a detailed tutorial in medium. Here's the link:
 
+- [Medium](https://thecaffeinedev.medium.com/training-a-custom-object-detection-model-with-yolo-v5-aa9974c07088) 
+
 
 ### Training:
 
